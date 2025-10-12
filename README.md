@@ -7,7 +7,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/Jibreltech/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/Jibreltech/ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Jibreltech/configure-ad)
+  - [Preparing  Active Directory infrastructure in Azure](https://github.com/Jibreltech/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Jibreltech/azure-network-protocols)
 
 <h2>🤳Connect with me:</h2>
