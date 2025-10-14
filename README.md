@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jibrel, an <a href="https://linkedin.com/in/www.linkedin.com/in/jibrel-fofanah-687992387">IT Professional</a>☺</h1>
+<h1>Hi, I'm Alasan, an <a href=https://www.linkedin.com/in/alasan-fofanah-687992387/>IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
@@ -15,4 +15,4 @@
 
 [<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[linkedin]: https://linkedin.com/in/www.linkedin.com/in/jibrel-fofanah-687992387
+[linkedin]: https://www.linkedin.com/in/alasan-fofanah-687992387/
